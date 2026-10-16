@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-aa41fb) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedance-2-0-fast-prompts-cn](https://github.com/aryvk/seedance-2-0-fast-prompts-cn)
+- **Same model, other languages** — 9 more language builds: Deutsch [seedance-2-0-fast-api-de](https://github.com/m7sqz596a/seedance-2-0-fast-api-de) · Español [seedance-2-0-fast-api-es](https://github.com/qaukkgecogrt/seedance-2-0-fast-api-es) · Français [seedance-2-0-fast-api-fr](https://github.com/j-az78q90oa/seedance-2-0-fast-api-fr) · Relay/gateway [seedance-2-0-fast-api-gateway](https://github.com/nmx58j60dc8c8/seedance-2-0-fast-api-gateway) · Bahasa [seedance-2-0-fast-api-id](https://github.com/ulazbd7hzzt/seedance-2-0-fast-api-id) · 日本語 [seedance-2-0-fast-api-ja](https://github.com/sxb6d8v/seedance-2-0-fast-api-ja) · 한국어 [seedance-2-0-fast-api-ko](https://github.com/k9fc4/seedance-2-0-fast-api-ko) · Português `seedance-2-0-fast-api-pt` · Русский [seedance-2-0-fast-api-ru](https://github.com/wlpm01/seedance-2-0-fast-api-ru)
+- **More models in this language** — [midjourney-api-cn](https://github.com/apimartycl6k972t/midjourney-api-cn) · [gemini-2-5-flash-image-preview-api-cn](https://github.com/hm-5j/gemini-2-5-flash-image-preview-api-cn) · [nano-banana-api-cn](https://github.com/mpflv/nano-banana-api-cn) · [gemini-3-1-flash-image-preview-api-cn](https://github.com/utp00/gemini-3-1-flash-image-preview-api-cn) · [nano-banana-2-api-cn](https://github.com/i3hxnu6/nano-banana-2-api-cn) · [gemini-3-pro-image-preview-api-cn](https://github.com/vd0tv42d/gemini-3-pro-image-preview-api-cn)
+- **Topic hubs** — every build of this model, all languages: [seedance-2-0-fast](https://github.com/topics/seedance-2-0-fast) · [seedance-2-0-fast-api](https://github.com/topics/seedance-2-0-fast-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
